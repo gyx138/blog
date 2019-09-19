@@ -6,13 +6,13 @@
 title: 作家Wiki
 subtitle: 个人兴趣，主要是收集作家的年谱。
 description: 作家的年谱，仅限喜欢的作家。
-author: fangge889
-language: zn
+author: gyx138
+language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://fangge889.github.io/
+url: https://gyx138.github.io/
 root: /
 permalink: wiki/:title/
 permalink_defaults:
@@ -113,7 +113,7 @@ sitemap:
 nofollow:
   enable: true
   exclude:
-    - fangge889.github.io
+    - gyx138.github.io
 
 ## Themes: https://hexo.io/themes/
 theme: Wikitten
@@ -124,5 +124,5 @@ theme: Wikitten
 deploy:
 - type: git
 	#repository: git@github.com:fangge889/fangge889/fangge889.github.io.git
-  repository: https://GIT_REPO_TOKEN@github.com/fangge889/fangge889.github.io.git
+  repository: https://GIT_REPO_TOKEN@github.com/gyx138/gyx138.github.io.git
   branch: master
