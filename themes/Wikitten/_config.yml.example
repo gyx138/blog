@@ -17,10 +17,10 @@ customize:
         enabled: false # Whether to show profile bar
         avatar: # css/images/avatar.png
         gravatar: fangge889@gmail.com # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-        author: fangge889
+        author: gyx138
         author_title: Designer & Programmer
         location: shenzhen, China
-        follow: https://github.com/fangge889/
+        follow: https://github.com/gyx138/
     highlight: monokai
     sidebar: left # sidebar position, options: left, right
     category_perExpand: false # enable article categories list per expanding
@@ -28,7 +28,7 @@ customize:
     favicon: /favicon.ico # path to favicon
     default_index_file: index.md # if this, it will display at site index instead of default index page
     social_links:
-        github: https://github.com/fangge889/fangge889.github.io
+        github: https://github.com/gyx138/gyx138.github.io
         stack-overflow: 
         codepen: 
         rss: /atom.xml
@@ -60,9 +60,9 @@ search:
 history_control: # make you wiki has history version control in page
     enable: true
     server_link: https://github.com # recommend use GitHub https://github.com
-    user: fangge889
+    user: gyx138
     repertory: blog
-    branch: master
+    branch: hexo
 
 # Comment
 comment:
